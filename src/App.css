@@ -653,3 +653,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .download-buttons button:hover {
   background-color: #0056b3;
 }
+.button-wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.button-wrapper button {
+  padding: 14px 48px;
+  font-size: 18px;
+  margin: 0;
+}
+
+.button-wrapper button:first-child {
+  margin-right: 20px;
+}
