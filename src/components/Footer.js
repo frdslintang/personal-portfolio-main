@@ -21,7 +21,7 @@ export const Footer = () => {
                 <a href="https://www.instagram.com/lintanggfrds"><img src={navIcon3} alt="" />
             </a>
             </div>
-            <p>Copyright 2024 Lintang Firdaus</p>
+            <p>© 2024 Lintang Firdaus</p>
           </Col>
         </Row>
       </Container>
