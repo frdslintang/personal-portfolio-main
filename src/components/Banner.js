@@ -84,7 +84,7 @@ export const Banner = () => {
                     <button
                     className="tagline-button"
                       onClick={() =>
-                        window.open('https://drive.google.com/file/d/1gxd2FbgBy4t3PYRJ6IfEm0C5koldaZbH/view?usp=sharing', '_blank')
+                        window.open('https://drive.google.com/file/d/1bxbkFjiCZdmycZIKDNJVEtP6ygCNztfr/view?usp=sharing', '_blank')
                       }>
                       Download Resume <ArrowRightCircle size={25} />
                     </button>
