@@ -84,14 +84,14 @@ export const Banner = () => {
                     <button
                     className="tagline-button"
                       onClick={() =>
-                        window.open('https://drive.google.com/your-resume-link', '_blank')
+                        window.open('https://drive.google.com/file/d/1gxd2FbgBy4t3PYRJ6IfEm0C5koldaZbH/view?usp=sharing', '_blank')
                       }>
                       Download Resume <ArrowRightCircle size={25} />
                     </button>
                     <button
                     className="tagline-button"
                       onClick={() =>
-                        window.open('https://drive.google.com/your-portfolio-link', '_blank')
+                        window.open('https://drive.google.com/file/d/15C7yEol8hnQBfHz7PmQo133MWSn1Ty54/view?usp=sharing', '_blank')
                       }>
                       Download Portfolio <ArrowRightCircle size={25} />
                     </button>
